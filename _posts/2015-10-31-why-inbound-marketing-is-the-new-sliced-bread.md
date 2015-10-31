@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Inbound Marketing is changing the way companies draw in customers and create real relationships.
-datePublished: '2015-10-31T20:08:57.314Z'
-dateModified: '2015-10-31T17:44:51.448Z'
+datePublished: '2015-10-31T20:24:00.796Z'
+dateModified: '2015-10-31T20:23:21.664Z'
 title: Why Inbound Marketing Is The New Sliced Bread
 sourcePath: _posts/2015-10-31-why-inbound-marketing-is-the-new-sliced-bread.md
 published: true
