@@ -23,7 +23,7 @@ color:
     - '#bebebe'
     - '#3b3b3b'
   brandStrength: 0
-  lightness: 0.5962522744666785
-  saturation: 0.8365487107075751
-  rhythmicContrast: 0.8883621813729405
+  lightness: 0.625
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
