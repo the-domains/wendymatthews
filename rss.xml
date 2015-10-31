@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Inbound Marketing Consultant]]></title>
+        <description><![CDATA[Inbound Marketing Consultant]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 31 Oct 2015 17:40:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why Inbound Marketing Is The New Sliced Bread]]></title>
+            <description><![CDATA[<article><h1>Why Inbound Marketing Is The New Sliced Bread</h1><p>Inbound Marketing is changing the way companies draw in customers and create real relationships.</p></article>]]></description>
+            <link>undefinedwhy-inbound-marketing-is-the-new-sliced-bread/index.html</link>
+            <guid isPermaLink="false">0d35b7a5-ba89-4668-8c25-3b4c5324f7b9</guid>
+            <pubDate>Sat, 31 Oct 2015 17:40:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
