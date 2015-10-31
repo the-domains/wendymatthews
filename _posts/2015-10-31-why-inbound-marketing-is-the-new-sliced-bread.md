@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Inbound Marketing is changing the way companies draw in customers and create real relationships.
-datePublished: '2015-10-31T20:24:00.796Z'
-dateModified: '2015-10-31T20:23:21.664Z'
+datePublished: '2015-10-31T20:28:54.781Z'
+dateModified: '2015-10-31T20:28:44.861Z'
 title: Why Inbound Marketing Is The New Sliced Bread
 sourcePath: _posts/2015-10-31-why-inbound-marketing-is-the-new-sliced-bread.md
 published: true
@@ -32,3 +32,4 @@ So what is Inbound Marketing?  It is a marketing approach where companies put ou
 Stay tuned for more informative insights into this fascinating marketing discipline that is as good as sliced bread for any consumer.
 
 -- WM
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8eaee8aa-1113-43f7-8540-2e6618285d3f.jpg)
